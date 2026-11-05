@@ -2,6 +2,9 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=04929515_002D705d_002D4e72_002D84cd_002D337dc12de1d0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PolicyTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;MSTest::9339363D-E74E-3C13-B97C-96A1C82C1887::net10.0::BIE.UnitTests.PolicyTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::9339363D-E74E-3C13-B97C-96A1C82C1887::net10.0::BIE.UnitTests.LearnerUnitTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D052C9D7-9F97-89AB-1B71-056675820472::net10.0::Bie.IntegrationTests.LearnerIntegrationTests.TouristAt30DaysIsSavedAsApproved&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::D052C9D7-9F97-89AB-1B71-056675820472::net10.0::Bie.IntegrationTests.LearnerIntegrationTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58c56b00_002Df81e_002D48fd_002Da74f_002Dc8e84271fcf4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Continuous Testing" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
